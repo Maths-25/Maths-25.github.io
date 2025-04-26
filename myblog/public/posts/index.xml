@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; Copyright Year, Your Name</copyright><lastBuildDate>Mon, 21 Apr 2025 23:31:15 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Mon, 21 Apr 2025 23:31:15 -0300</pubDate>
+    <author>Hugo Authors</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<h1 id="guisso-me-fez-criar-um-blog">Guisso me fez criar um blog</h1>]]></description>
+</item>
+</channel>
+</rss>
