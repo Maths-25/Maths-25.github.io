@@ -8,11 +8,11 @@ tags = ["hugo", "post"]
 
 ## Tabela de conhecimentos
 
-| javaScript    | C++           |
-| ------------- |:-------------:|
-|               |Comandos       |
-|               |Funções        |
-|               |Vetor e Matriz |
-|               |Strings        |
-|               |Tipos Estrut.  |
-|               |Ordenação      |
+| Conceito         | JavaScript | C++        |
+|------------------|------------|------------|
+| Comandos básicos | ✓          | ✓          |
+| Funções          | ✓          | ✓          |
+| Vetores/Matrizes | ✓          | ✓          |
+| Strings          | ✓          | ✓          |
+| Estruturas       | ✗          | ✓          |
+| Ordenação        | ✗          | ✓          |
