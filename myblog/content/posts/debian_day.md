@@ -21,6 +21,7 @@ O evento é celebrado no dia 16/08 ou no final de semana mais próximo a data, p
 
 <div style="text-align:center">
     <img src="grupo_dd_2025.jpg">
+    <p>&nbsp;</p>
 </div>
 
 Nesta edição que ocorreu no **SEBRAE-RN** auxiliei na organização como um voluntário da [Potilivre](https://potilivre.org) e tive a oportunidade de participar também como palestrante, onde apresentei introdutoriamente algumas curiosidades quanto ao projeto e como desfrutar das utilidades do Linux, através da ferramenta WSL, sem sair do conforto ou comodidade apreciados pela maioria dos usuários do sistema operacional Windows, a qual exemplifiquei o quão fácil é hospedar a distro Debian.
