@@ -8,7 +8,7 @@ enableRobotsTXT = true
 copyright = "&copy; Copyright Year, Your Name"
 
 # website title
-title = "My New Hugo Site"
+title = "MSN Blog"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -41,7 +41,7 @@ languageName = "English"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Categorias"
     url = "/categories/"
     title = ""
 
